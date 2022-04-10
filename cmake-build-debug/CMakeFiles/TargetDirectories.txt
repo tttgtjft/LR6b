@@ -1,0 +1,3 @@
+C:/Users/ASUS TUF GAMING/CLionProjects/LR6b/cmake-build-debug/CMakeFiles/LR6b.dir
+C:/Users/ASUS TUF GAMING/CLionProjects/LR6b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS TUF GAMING/CLionProjects/LR6b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
